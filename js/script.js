@@ -1,17 +1,17 @@
 function sayHello() {
-    alert('hello')
+    alert('hello new')
 }
 
 
 function sayGoodbye() {
-    alert('goodbye')
+    alert('goodbye new ')
 }
 
 
 function showHello() {
-    document.getElementById('texthere').innerHTML = "hello"
+    document.getElementById('texthere').innerHTML = "hello new"
 }
 
 function showGoodbye() {
-    document.getElementById('texthere').innerHTML = "goodbye"
+    document.getElementById('texthere').innerHTML = "goodbye new"
 }
